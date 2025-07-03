@@ -11,6 +11,10 @@
 
 ## 🚀 Featured Project
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tesnetra/Nexus-Testnet-III-Node-Docker/main/assets/banner-nexus-docker.png" alt="Nexus Docker Banner" width="100%"/>
+</p>
+
 **[Nexus Testnet III Node Docker](https://github.com/tesnetra/Nexus-Testnet-III-Node-Docker)**  
 Run a Nexus node in under 2 minutes using Docker & Gitpod. No VPS needed.
 
@@ -42,12 +46,41 @@ Released under the MIT License 📄
 
 ---
 
-## ☕️ Support My Work
+## ✨ Animated Avatar
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="180" alt="Animated Developer Icon"/>
+</p>
+
+---
+
+## ☕ Support My Work
 
 If this helps you, consider donating:
 
-- **EVM:** `0x5497A61CF69128C86B7641a79D4af9B20bffAAA3`
-- **SOL:** `4r8QKNtFYg4jM8EDedkN3BRGHv3DHyRFPim5DZhb4ULr`
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/tesnetra/tesnetra/main/qr-eth.png" width="130"><br/>
+      <b>ETH / EVM</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/tesnetra/tesnetra/main/qr-sol.png" width="130"><br/>
+      <b>SOLANA</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/tesnetra/tesnetra/main/qr-sui.png" width="130"><br/>
+      <b>SUI</b>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+- **EVM:** `0x5497A61CF69128C86B7641a79D4af9B20bffAAA3`  
+- **SOL:** `4r8QKNtFYg4jM8EDedkN3BRGHv3DHyRFPim5DZhb4ULr`  
 - **SUI:** `0xaca47b31f51467a8d4c14be6142cbfd21576328c24de7f0700dd164145329b54`
 
 ---
@@ -57,3 +90,14 @@ If this helps you, consider donating:
 - 🕊️ Twitter: [@tesnetra](https://twitter.com/tesnetra)
 - 📖 Medium: [medium.com/@tesnetra](https://medium.com/@tesnetra)
 - 💬 Telegram: [@snickersdoodle](https://t.me/snickersdoodle)
+
+---
+
+<details>
+<summary>🌜 Toggle for Dark/Light Mode Tips</summary>
+
+> You can add dark/light mode auto-switch support in GitHub Pages or personal sites using `prefers-color-scheme` in CSS.
+
+For GitHub profile, we use neutral colors in SVG/banner to ensure it's readable across light/dark.
+
+</details>
