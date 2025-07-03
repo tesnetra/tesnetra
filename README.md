@@ -54,7 +54,7 @@ Released under the MIT License 📄
 
 ---
 
-## ☕ Support My Work
+## ☕ Buy Me a Coffee
 
 If this helps you, consider donating:
 
