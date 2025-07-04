@@ -11,10 +11,6 @@
 
 ## 🚀 Featured Project
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tesnetra/Nexus-Testnet-III-Node-Docker/main/assets/banner-nexus-docker.png" alt="Nexus Docker Banner" width="100%" />
-</p>
-
 **[Nexus Testnet III Node Docker](https://github.com/tesnetra/Nexus-Testnet-III-Node-Docker)**  
 Run a Nexus node in under 2 minutes using Docker & Gitpod. No VPS needed.
 
