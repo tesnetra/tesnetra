@@ -12,7 +12,7 @@
 ## 🚀 Featured Project
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tesnetra/Nexus-Testnet-III-Node-Docker/main/assets/banner-nexus-docker.png" alt="Nexus Docker Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/tesnetra/Nexus-Testnet-III-Node-Docker/main/assets/banner-nexus-docker.png" alt="Nexus Docker Banner" width="100%" />
 </p>
 
 **[Nexus Testnet III Node Docker](https://github.com/tesnetra/Nexus-Testnet-III-Node-Docker)**  
